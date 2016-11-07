@@ -34,22 +34,22 @@
       <a class="navbar-brand" href="#">TECHNO WORLD</a>
     </div>
     <ul class="nav navbar-nav">
-      <li><a href="home.jsp">Home</a></li>
+      <li><a href="home">Home</a></li>
       <li class="dropdown">
         <a class="dropdown-toggle" data-toggle="dropdown" href="#">PRODUCTS
         <span class="caret"></span></a>
         <ul class="dropdown-menu">
-          <li><a href="laptops.jsp">Laptops</a></li>
-          <li><a href="desktops.jsp">Desktops</a></li>
-          <li><a href="accesserios.jsp">accessories</a></li> 
+          <li><a href="laptops">Laptops</a></li>
+          <li><a href="desktops">Desktops</a></li>
+          <li><a href="accesserios">accessories</a></li> 
         </ul>
       </li>
-      <li><a href="aboup.jsp">about us</a></li> 
+      <li><a href="about">about us</a></li> 
       <li class="active"><a href="contact">contact us</a></li> 
     </ul>
     <ul class="nav navbar-nav navbar-right">
-      <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-      <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      <li><a href="register"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+      <li><a href="login.in"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
     </ul>
   </div>
 </nav>

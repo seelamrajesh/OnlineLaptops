@@ -28,4 +28,10 @@ public class HomeController{
 	{
 	return "contact";	
 	}
+	@RequestMapping("/registe")
+	public String forregister()
+	{
+	return "register";	
+	}
+	
 }
