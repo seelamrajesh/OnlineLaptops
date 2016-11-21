@@ -33,5 +33,14 @@ public class HomeController{
 	{
 	return "register";	
 	}
-	
-}
+	@RequestMapping("/login")
+	public String forlogin()
+	{
+	return "login";
+	}
+	@RequestMapping("/adminheader")
+	public String foradmin()
+	{
+	return "adminheader";
+	}
+	}

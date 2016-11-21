@@ -15,7 +15,7 @@
 </head>
 <body>
   
-  <jsp:include page="/WEB-INF/views/header.jsp"/>       
+        
      
 <div class="container">
   <br>
@@ -85,7 +85,7 @@
                        background-color: cyan;
                             }
                   </style></div>
-	<jsp:include page="/WEB-INF/views/footer.jsp"/> 
+	 
 
 </body>
 </html>

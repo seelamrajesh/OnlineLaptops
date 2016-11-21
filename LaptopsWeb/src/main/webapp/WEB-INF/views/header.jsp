@@ -38,7 +38,9 @@
         </ul>
       </li>
       <li><a href="about">About</a></li> 
-      <li><a href="contact">Contact us</a></li> 
+      <li><a href="contact">Contact us</a></li>
+      <li><a href="adminheader">Admin</a></li> 
+       
     </ul>
     <ul class="nav navbar-nav navbar-right">
       <li><a href="register"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
