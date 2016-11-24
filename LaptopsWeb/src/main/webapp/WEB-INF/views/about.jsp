@@ -21,31 +21,7 @@
 <body>
 
 <body>
- <nav cl"about.jsp"ass="navbar navbar-inverse">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <a class="navbar-brand" href="#">TECHNO WORLD</a>
-    </div>
-    <ul class="nav navbar-nav">
-      <li><a href="#">Home</a></li>
-      <li class="dropdown">
-        <a class="dropdown-toggle" data-toggle="dropdown" href="#">PRODUCTS
-        <span class="caret"></span></a>
-        <ul class="dropdown-menu">
-          <li><a href="#">Laptops</a></li>
-          <li><a href="#">Desktops</a></li>
-          <li><a href="#">accessories</a></li> 
-        </ul>
-      </li>
-      <li class="active"><a href="about">about</a></li> 
-      <li><a href="contact">contact us</a></li> 
-    </ul>
-    <ul class="nav navbar-nav navbar-right">
-      <li><a href="register"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-      <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-    </ul>
-  </div>
-</nav>
+<jsp:include page="/WEB-INF/views/header.jsp"/>
 <div class="row">
        <center>
 	<div class="col-md-12">

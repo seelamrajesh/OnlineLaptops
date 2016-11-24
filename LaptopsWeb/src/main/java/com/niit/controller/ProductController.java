@@ -84,7 +84,7 @@ public class ProductController {
 		ModelAndView m = new ModelAndView("ProductPage","Product",ad);
 		
 
-		System.out.println("pro idddddddddddddddddddddd"+ad.getPid());
+		System.out.println("pro id"+ad.getPid());
 		m.addObject("check",false);
 		String catjsonlist=catDao.listCat();
 		

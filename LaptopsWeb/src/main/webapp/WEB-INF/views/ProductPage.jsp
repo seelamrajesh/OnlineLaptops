@@ -176,7 +176,7 @@
 						<form:select class="form-control" path="catId" >
 							<form:option value="-1">Select category Name</form:option>
 							<form:option ng-repeat="cat in category"
-								value="{{cat.id}}">{{cat.name}}</form:option>suuId
+								value="{{cat.id}}">{{cat.name}}</form:option>catId
 						</form:select>
 					</div>
 				</div>

@@ -142,7 +142,7 @@ search:<input type="text" placeholder="search supplier" ng-model="searchsup"/>
 <tr class="success" ng-repeat="sup2 in supplier|filter:searchsup">
                 <td>{{sup2.sid}}</td> 
                  <td>{{sup2.sname}}</td>
-                 <td>{{sip2.saddr}}</td>
+                 <td>{{sup2.saddr}}</td>
                 
                      <td><a href="updatesup?sid={{sup2.sid}}">Edit</a></td>
                 <td><a href="deletesup?sid={{sup2.sid}}">Delete</a></td>

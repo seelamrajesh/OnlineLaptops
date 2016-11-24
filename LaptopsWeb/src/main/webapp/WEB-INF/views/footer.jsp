@@ -13,7 +13,7 @@
        
 	</div>
       </ul>
-<div class="navbar navbar-inverse navbar-fixed-bottom" role="navigation">
+<div class="navbar navbar-inverse " role="navigation">
 <div class="container">
 <div class="navbar-text pull-left">
 	<p>@2016 All Rights Reserved</p>

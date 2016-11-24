@@ -27,14 +27,14 @@
       <a class="navbar-brand" href="#">Techno World</a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="home.jsp">Home</a></li>
+      <li class="active"><a href="home">Home</a></li>
       <li class="dropdown">
         <a class="dropdown-toggle" data-toggle="dropdown" >PRODUCTS
         <span class="caret"></span></a>
         <ul class="dropdown-menu">
-          <li><a href="laptops.html">Laptops</a></li>
-          <li><a href="desktops.jsp">Desktops</a></li>
-          <li><a href="accesserios.jsp">accessories</a></li> 
+          <li><a href="products">Laptops</a></li>
+          <li><a href="desktops">Desktops</a></li>
+          <li><a href="accesserios">accessories</a></li> 
         </ul>
       </li>
       <li><a href="about">About</a></li> 
